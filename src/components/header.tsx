@@ -21,8 +21,8 @@ export default function App() {
       <header className="App-header">
         <nav className="navbar">
           <div className="dia" >
-            <a href="/"><strong >DiaSys MonGolia</strong></a>
-            <p className="me">Medical device distributer</p>
+            <a href="/"><strong >Diasys Mongolia</strong></a>
+            <p className="me">Suppliers and importers of medicine and medical equipment</p>
           </div>
 
           <div className="menu">
