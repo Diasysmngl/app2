@@ -19,6 +19,7 @@
     align-items: center;
     margin: 10%;
     color: #fff;
+    
   
   }
   .about-content img{
@@ -27,14 +28,31 @@
   .about-content p {
     font-size: 16px;
     margin-bottom: 50px;
+<<<<<<< HEAD
     padding: 1px;
+=======
+    padding: 10rem;
+    color:black;
+    background-color: #fff;
+    display: flex;
+    margin: 0%;
+>>>>>>> a2961e90185c135411885d7cb74452661c749be9
   }
   
   .about-content ul {
     margin: 0;
     padding: 0;
     list-style: none;
+<<<<<<< HEAD
     margin: 2% 3%;
+=======
+    margin: 7% 3%;
+     padding: 10rem;
+    color:black;
+    background-color: #fff;
+    display: flex;
+    margin: 0%;
+>>>>>>> a2961e90185c135411885d7cb74452661c749be9
   }
   
   .about-content ul li {
@@ -77,3 +95,4 @@
       height: 50%;
     }
   }
+  
